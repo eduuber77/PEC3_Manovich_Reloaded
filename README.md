@@ -24,7 +24,7 @@ En términos de hibridación, la aplicación de Google Maps es un caso impresion
 Vamos a detallar qué combinación de diferentes medios digitales utiliza Google Maps:
 - En primer lugar, la aplicación utiliza tecnología de mapas geoespaciales para proporcionar una vista detallada del mundo en tiempo real.
 - En segundo lugar, utiliza la geolocalización del dispositivo electrónico para saber dónde estás ubicado y dirigirte mejor a los lugares.
-- En segundo lugar, utiliza el formato similar al de redes sociales para permitir a los usuarios compartir información y reseñas sobre lugares específicos.
+- En tercer lugar, utiliza el formato similar al de redes sociales para permitir a los usuarios compartir información y reseñas sobre lugares específicos.
 - En cuarto lugar, otra forma en que la aplicación de Google Maps está aprovechando la hibridación de tecnologías es mediante el uso de inteligencia artificial y aprendizaje automático. La aplicación utiliza algoritmos para predecir el tráfico y las rutas más eficientes para llegar a un destino, lo que permite a los usuarios ahorrar tiempo y evitar el tráfico. También utiliza la inteligencia artificial para identificar lugares cercanos de interés basados en las preferencias del usuario, como museos, galerías de arte y lugares históricos.
 - En quinto lugar, utiliza imágenes de lugares por visitar gracias a los archivos que suben a la plataforma los mismos usuarios.
 - En sexto lugar, también dispone de vídeos de zonas concretas (tiendas, parques turísticos, balnearios, playas, parques, jardines...) para hacerse una mejor idea sobre el lugar. También los cuelgan los usuarios de la plataforma.
