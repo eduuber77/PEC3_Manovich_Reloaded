@@ -74,7 +74,7 @@ Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta
 -   Manovich, Lev. (2013).  El Software toma el mando. Barcelona: Editorial UOC.
 - Adell, Ferran. Técnicas de software, o cómo entender el software. Universitat Oberta de Catalunya. UOC. En hipertextual. En hipertextual. [Consulta: 11/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/tecnicas-de-software-o-como-entender-el-software/
 - Muñoz Justicia, Juan. (2014). Conocimiento Abierto y tecnología. El sitio de Juan, psicología social y más. En hipertextual. [consulta: 11/05/2023]. Disponible en: http://juan.psicologiasocial.eu/conocimiento-y-tecnologia 
-- McMillan, Robert. (2012). GitHub. Lord of the Files: How GitHub Tamed Free Software. En hypertextual. [consulta: 11/05/2023]. Disponible en: https://github.com/WiredEnterprise/Lord-of-the-Files 
+- McMillan, Robert. (2012). GitHub. Lord of the Files: How GitHub Tamed Free Software. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://github.com/WiredEnterprise/Lord-of-the-Files 
 - Hibridación de medios. Wikipedia, la enciclopedia libre. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
 - Whats App. Wikipedia, la enciclopedia libre. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://es.wikipedia.org/wiki/WhatsApp
 - WhatsApp: 38 funciones y trucos para exprimir al máximo la app de mensajería. Xataka, para apasionados de la tecnología. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://www.xataka.com/basics/whatsapp-38-funciones-trucos-para-exprimir-al-maximo-app-mensajeria
