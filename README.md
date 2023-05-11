@@ -38,8 +38,7 @@ En general, la aplicación de Google Maps es un ejemplo impresionante de cómo l
 
 Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta aplicación.
 
-[Vídeo explicativo sobre cómo usar Google Maps]([https://www.youtube.com/watch?v=h2ov-wj6u_g](https://www.youtube.com/watch?v=X3IznlJWyuM))
-(https://www.youtube.com/watch?v=h2ov-wj6u_g)
+[Vídeo explicativo sobre cómo usar Google Maps](https://www.youtube.com/watch?v=h2ov-wj6u_g](https://www.youtube.com/watch?v=X3IznlJWyuM)
 
 # WHATSAPP
 ![Imagen ilustrativa del aplicativo Whats App](https://s2.ppllstatics.com/laverdad/www/multimedia/202201/29/media/cortadas/whatsapp-k2D-U180237070645G9C-1248x770@La%20Verdad.jpg)
