@@ -30,7 +30,7 @@ Vamos a detallar qué combinación de diferentes medios digitales utiliza Google
 6. En sexto lugar, también dispone de vídeos de zonas concretas (tiendas, parques turísticos, balnearios, playas, parques, jardines...) para hacerse una mejor idea sobre el lugar. También los cuelgan los usuarios de la plataforma.
 7. En séptimo lugar, cada uno de los sitios de interés cuenta con un texto explicativo para saber qué es y cómo es en base a una descripción textual del lugar.
 
-Todas estas diferentes tecnologías o medios digitales mencionados anteriormente se han fusionado entre sí, como bien transmite el concepto de **hibridación** que tanto menciona Lev Manovich, para crear esta aplicación.
+Todas estas diferentes tecnologías o medios digitales mencionados anteriormente se han fusionado entre sí, como bien transmite el concepto de **hibridación** que tanto menciona Lev Manovich, para formar esta aplicación.
 
 Esta hibridación de tecnologías es fundamental para la experiencia del usuario en la aplicación de Google Maps. Los usuarios pueden obtener una vista detallada del mundo a su alrededor y al mismo tiempo acceder a información en tiempo real sobre lugares específicos, como restaurantes, tiendas y atracciones turísticas. Además, los usuarios también pueden dejar reseñas y comentarios sobre estos lugares, lo que permite a otros usuarios tomar decisiones informadas sobre dónde ir y qué hacer.
 
@@ -56,7 +56,7 @@ Vamos a detallar qué combinación de diferentes medios digitales utiliza WhatsA
 7. En séptimo lugar, se pueden realizar llamadas telefónicas cómo si de una línea telefónica se tratara. Esto se realiza mediante conexión a Internet y no supone ningún gasto adicional con operadores telefónicos. El único inconveniente es que, al funcionar con Internet, si la señal de conexión a Internet es débil, la llamada puede que se interrumpa y dificulte el habla.
 8. En octavo lugar, una de las funcionalidades por excelencia es la posibilidad de realizar videollamadas. Conexiones en tiempo real compartiendo vídeo y audio con una o más personas a la misma vez. Otorgando esa sensación de cercanía con la otra persona.
 
-Todas estas diferentes tecnologías o medios digitales mencionados anteriormente se han fusionado entre sí, como bien transmite el concepto de **hibridación** que tanto menciona Lev Manovich, para crear esta aplicación.
+Todas estas diferentes tecnologías o medios digitales mencionados anteriormente se han fusionado entre sí, como bien transmite el concepto de **hibridación** que tanto menciona Lev Manovich, para formar esta aplicación.
 
 En cuanto a la extensión social, la hibridación de medios y tecnologías en WhatsApp también ha tenido un impacto significativo en la cultura y la sociedad. La aplicación se ha convertido en una herramienta importante para la comunicación en todo el mundo, lo que ha llevado a la creación de nuevas formas de interacción social y a una mayor conectividad entre las personas. Además, la integración de tecnologías de comunicación ha hecho que la aplicación sea una herramienta importante para el trabajo remoto y la colaboración en línea.
 
