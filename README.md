@@ -34,7 +34,7 @@ Esta hibridación de tecnologías es fundamental para la experiencia del usuario
 
 En general, la aplicación de Google Maps es un ejemplo impresionante de cómo la tecnología está transformando nuestra comprensión del mundo que nos rodea. La hibridación de medios permite a los usuarios acceder y manipular información en tiempo real sobre lugares específicos, lo que les permite tomar decisiones informadas sobre dónde ir y qué hacer. Además, la aplicación utiliza tecnologías avanzadas como la inteligencia artificial y el aprendizaje automático para mejorar la experiencia del usuario y proporcionar información más precisa y útil. En última instancia, lo que refleja la aplicación de Google Maps es el poder de la tecnología para cambiar nuestra forma de interactuar con el mundo que nos rodea y para mejorar nuestras vidas de maneras que nunca hubiéramos imaginado.
 
-#WHATS APP
+# WHATS APP
 ![Imagen ilustrativa del aplicativo Whats App](https://s2.ppllstatics.com/laverdad/www/multimedia/202201/29/media/cortadas/whatsapp-k2D-U180237070645G9C-1248x770@La%20Verdad.jpg)
 
 Desde la perspectiva de razonamiento de Lev Manovich, la hibridación es una fuerza impulsora para la innovación y la creatividad en el mundo digital y, como segundo ejemplo relevante de hibridación, hablaremos sobre  la aplicación de WhatsApp, que combina diversos medios digitales en un solo aplicativo.
