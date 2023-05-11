@@ -17,3 +17,19 @@ En primer lugar, se examinará la hibridación en la aplicación de **Google Map
 
 ![Imagen ilustrativa de Google Maps](https://i.blogs.es/964fcc/google-maps-portada-trafico/1366_2000.jpg)
 
+Desde la perspectiva de pensamiento de Lev Manovich, cada vez conviven más formatos de reproducción de datos multimedia y, un gran ejemplo de ello, es la aplicación de Google Maps, la cuál es un modelo perfecto de cómo la tecnología está transformando nuestra comprensión del espacio y del mundo que nos rodea.
+
+En términos de hibridación, la aplicación de Google Maps es un caso impresionante de cómo se están fusionando diferentes tipos de tecnología o medios digitales para crear una experiencia única para el usuario. Todos sabemos que antiguamente para viajar de un punto A a un punto B necesitábamos grandes mapas físicos, con sus inconvenientes para guardarlos o la modificación de las carreteras a posteriori de haber comprado el mapa. Esto desapareció con la llegada de Google Maps.
+
+Vamos a detallar qué combinación de diferentes medios digitales utiliza Google Maps:
+- En primer lugar, la aplicación utiliza tecnología de mapas geoespaciales para proporcionar una vista detallada del mundo en tiempo real.
+- En segundo lugar, utiliza la geolocalización del dispositivo electrónico para saber dónde estás ubicado y dirigirte mejor a los lugares.
+- En segundo lugar, utiliza el formato similar al de redes sociales para permitir a los usuarios compartir información y reseñas sobre lugares específicos.
+- En cuarto lugar, otra forma en que la aplicación de Google Maps está aprovechando la hibridación de tecnologías es mediante el uso de inteligencia artificial y aprendizaje automático. La aplicación utiliza algoritmos para predecir el tráfico y las rutas más eficientes para llegar a un destino, lo que permite a los usuarios ahorrar tiempo y evitar el tráfico. También utiliza la inteligencia artificial para identificar lugares cercanos de interés basados en las preferencias del usuario, como museos, galerías de arte y lugares históricos.
+- En quinto lugar, utiliza imágenes de lugares por visitar gracias a los archivos que suben a la plataforma los mismos usuarios.
+- En sexto lugar, también dispone de vídeos de zonas concretas (tiendas, parques turísticos, balnearios, playas, parques, jardines...) para hacerse una mejor idea sobre el lugar. También los cuelgan los usuarios de la plataforma.
+- En séptimo lugar, cada uno de los sitios de interés cuenta con un texto explicativo para saber qué es y cómo es en base a una descripción textual del lugar.
+
+Esta hibridación de tecnologías es fundamental para la experiencia del usuario en la aplicación de Google Maps. Los usuarios pueden obtener una vista detallada del mundo a su alrededor y al mismo tiempo acceder a información en tiempo real sobre lugares específicos, como restaurantes, tiendas y atracciones turísticas. Además, los usuarios también pueden dejar reseñas y comentarios sobre estos lugares, lo que permite a otros usuarios tomar decisiones informadas sobre dónde ir y qué hacer.
+
+En general, la aplicación de Google Maps es un ejemplo impresionante de cómo la tecnología está transformando nuestra comprensión del mundo que nos rodea. La hibridación de medios permite a los usuarios acceder y manipular información en tiempo real sobre lugares específicos, lo que les permite tomar decisiones informadas sobre dónde ir y qué hacer. Además, la aplicación utiliza tecnologías avanzadas como la inteligencia artificial y el aprendizaje automático para mejorar la experiencia del usuario y proporcionar información más precisa y útil. En última instancia, lo que refleja la aplicación de Google Maps es el poder de la tecnología para cambiar nuestra forma de interactuar con el mundo que nos rodea y para mejorar nuestras vidas de maneras que nunca hubiéramos imaginado.
