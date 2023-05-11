@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich. Google Maps y WhatsApp.
+# PEC3: Visionando el futuro con las gafas de Manovich.
 ## Informe-ensayo de dos casos de hibridación: Google Maps y WhatsApp.
 
 - Asignatura: Cultura Digital
