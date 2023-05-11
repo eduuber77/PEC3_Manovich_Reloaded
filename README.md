@@ -67,7 +67,8 @@ En cuanto a la extensión social, la hibridación de medios y tecnologías en Wh
 En conclusión, la hibridación de tecnologías en la aplicación de WhatsApp ha llevado a la creación de una experiencia de comunicación integral que combina diferentes tecnologías y herramientas para mejorar la experiencia del usuario. Esta hibridación ha tenido un impacto significativo en la población a nivel mundial y ha creado nuevas formas de interacción social y conectividad. La aplicación de WhatsApp es un ejemplo importante de cómo la hibridación ha sido una fuerza impulsora para la innovación y la creatividad en el mundo digital y en la realidad física de muchas personas.
 
 Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta aplicación.
-[Vídeo explicativo sobre cómo usar WhatsApp] (https://www.youtube.com/watch?v=GeZn-ETiacs)
+
+[Vídeo explicativo sobre cómo usar WhatsApp](https://www.youtube.com/watch?v=GeZn-ETiacs)
 
 # Referencias y bibliografía
 -   Manovich, Lev. (2013).  El Software toma el mando. Barcelona: Editorial UOC.
