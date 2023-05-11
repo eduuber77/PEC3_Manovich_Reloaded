@@ -61,3 +61,13 @@ Todas estas diferentes tecnologías o medios digitales mencionados anteriormente
 En cuanto a la extensión social, la hibridación de medios y tecnologías en WhatsApp también ha tenido un impacto significativo en la cultura y la sociedad. La aplicación se ha convertido en una herramienta importante para la comunicación en todo el mundo, lo que ha llevado a la creación de nuevas formas de interacción social y a una mayor conectividad entre las personas. Además, la integración de tecnologías de comunicación ha hecho que la aplicación sea una herramienta importante para el trabajo remoto y la colaboración en línea.
 
 En conclusión, la hibridación de tecnologías en la aplicación de WhatsApp ha llevado a la creación de una experiencia de comunicación integral que combina diferentes tecnologías y herramientas para mejorar la experiencia del usuario. Esta hibridación ha tenido un impacto significativo en la población a nivel mundial y ha creado nuevas formas de interacción social y conectividad. La aplicación de WhatsApp es un ejemplo importante de cómo la hibridación ha sido una fuerza impulsora para la innovación y la creatividad en el mundo digital y en la realidad física de muchas personas.
+
+# Referencias y bibliografía
+-   Manovich, Lev. (2013).  El Software toma el mando. Barcelona: Editorial UOC.
+- Adell, Ferran. Técnicas de software, o cómo entender el software. Universitat Oberta de Catalunya. UOC. En hipertextual. En hipertextual. [Consulta: 11/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/tecnicas-de-software-o-como-entender-el-software/
+- Hibridación de medios. Wikipedia, la enciclopedia libre. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+- Whats App. Wikipedia, la enciclopedia libre. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://es.wikipedia.org/wiki/WhatsApp
+- WhatsApp: 38 funciones y trucos para exprimir al máximo la app de mensajería. Xataka, para apasionados de la tecnología. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://www.xataka.com/basics/whatsapp-38-funciones-trucos-para-exprimir-al-maximo-app-mensajeria
+- Google maps. Wikipedia, la enciclopedia libre. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Google_Maps
+- Qué es Google maps. Arimetrics. El glosario digital. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://www.arimetrics.com/glosario-digital/google-maps
+
