@@ -43,6 +43,7 @@ Antiguamente (y ahora también pero cada vez menos), antes de que existiese la m
 La hibridación de mensajería instantánea con la posibilidad de realizar llamadas de voz y videollamadas ha llevado a la creación de una experiencia de comunicación integral. En lugar de tener que cambiar entre diferentes aplicaciones o tecnologías para comunicarse de diferentes maneras, los usuarios pueden hacer todo desde una sola aplicación.
 
 La hibridación en Whats App no se limita a la combinación de diferentes tecnologías de comunicación. La aplicación también ha integrado una serie de características y herramientas para mejorar la experiencia de los usuarios. 
+
 Vamos a detallar qué combinación de diferentes medios digitales utiliza WhatsApp
 1. En primer lugar,  la posibilidad de enviar y recibir archivos en diferentes formatos digitales como PDF, Word, Power Point, Excel, etc.
 2. En segundo lugar, compartir ubicaciones de lugares en concreto de alrededor del mundo, parecido a Google Maps. Se puede compartir la ubicación propia del usuario a cualquier contacto de WhatsApp para que sepa dónde estás. Además, esta ubicación puede ser incluso en tiempo real, así que te indica si la persona se está moviendo.
