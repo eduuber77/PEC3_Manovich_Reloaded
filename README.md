@@ -11,8 +11,8 @@
 # Introducción
 Haciendo referencia a **Lev Manovich** en su libro ***El software toma el mando***, el mundo se está convirtiendo en un gran archivo de datos, y la tecnología digital está permitiendo a las personas acceder y manipular estos datos de formas nunca antes vistas. La **hibridación de tecnologías** es una tendencia cada vez más común e importante en el mundo digital. La **hibridación** se refiere a la combinación de tecnologías, herramientas, disciplinas o medios digitales diferentes entre sí para crear algo nuevo y disruptivo que no podría haber sido posible sin haber combinado estos elementos. Esta mezcla de medios permite la creación de nuevas experiencias para los usuarios y el desarrollo de nuevo *software*.
 
-En este trabajo, se analizarán dos ejemplos de hibridación desde la perspectiva de pensamiento de Lev Manovich. 
-En primer lugar, se examinará la hibridación en la aplicación de **Google Maps** y, en segundo lugar, en la aplicación de **Whats App**. Ambas aplicaciones cuentan con diferentes medios que conviven entre sí para formar el aplicativo e ilustran cómo la hibridación puede ser una fuerza impulsora para la innovación y la creatividad en el mundo digital.
+En este trabajo, se analizarán tres ejemplos de hibridación desde la perspectiva de pensamiento de Lev Manovich. 
+En primer lugar, se examinará la hibridación en la aplicación de **Google Maps**, en segundo lugar, en la aplicación de **Whats App** y, por último, el uso del **reloj inteligente o Smart Watch**. Las tres aplicaciones cuentan con diferentes medios que conviven entre sí para formar el aplicativo e ilustran cómo la hibridación puede ser una fuerza impulsora para la innovación y la creatividad en el mundo digital.
 # GOOGLE MAPS
 
 ![Imagen ilustrativa de Google Maps](https://i.blogs.es/964fcc/google-maps-portada-trafico/1366_2000.jpg)
