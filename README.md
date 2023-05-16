@@ -70,6 +70,10 @@ Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta
 
 [Vídeo explicativo sobre cómo usar WhatsApp](https://www.youtube.com/watch?v=GeZn-ETiacs)
 
+# Reloj Inteligente o SmartWatch
+
+
+
 # Referencias y bibliografía
 -   Manovich, Lev. (2013).  El Software toma el mando. Barcelona: Editorial UOC.
 - Adell, Ferran. Técnicas de software, o cómo entender el software. Universitat Oberta de Catalunya. UOC. En hipertextual. En hipertextual. [Consulta: 11/05/2023]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/tecnicas-de-software-o-como-entender-el-software/
