@@ -84,4 +84,7 @@ Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta
 - WhatsApp: 38 funciones y trucos para exprimir al máximo la app de mensajería. Xataka, para apasionados de la tecnología. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://www.xataka.com/basics/whatsapp-38-funciones-trucos-para-exprimir-al-maximo-app-mensajeria
 - Google maps. Wikipedia, la enciclopedia libre. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Google_Maps
 - Qué es Google maps. Arimetrics. El glosario digital. En hipertextual. [consulta: 11/05/2023]. Disponible en: https://www.arimetrics.com/glosario-digital/google-maps
+- Smartwatch: qué es, para qué sirve y cómo funciona. Hiraoka, tu casa inteligente. En hipertextual. [consulta: 18/05/2023]. Disponible en: https://hiraoka.com.pe/blog/post/smartwatch-que-es-para-que-sirve-como-funciona#:~:text=El%20smartwatch%20o%20reloj%20inteligente,nuestros%20correos%20electr%C3%B3nicos%2C%20entre%20otros.
+- Reloj inteligente. Wikipedia, la enciclopedia libre. En hipertextual. [consulta: 18/05/2023]. Disponible en: https://es.wikipedia.org/wiki/Reloj_inteligente  
+
 
