@@ -70,7 +70,7 @@ Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta
 
 [Vídeo explicativo sobre cómo usar WhatsApp](https://www.youtube.com/watch?v=GeZn-ETiacs)
 
-# Reloj Inteligente o SmartWatch
+# RELOJ INTELIGENTE O SMARTWATCH
 
 
 
