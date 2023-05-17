@@ -1,5 +1,5 @@
 # PEC3: Visionando el futuro con las gafas de Manovich.
-## Informe-ensayo de dos casos de hibridación: Google Maps y WhatsApp.
+## Informe-ensayo de tres casos de hibridación: Google Maps, WhatsApp y el SmartWatch.
 
 - Asignatura: Cultura Digital
 - Profesor/a: Jaume Villar Martínez
