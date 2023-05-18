@@ -71,8 +71,26 @@ Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta
 [Vídeo explicativo sobre cómo usar WhatsApp](https://www.youtube.com/watch?v=GeZn-ETiacs)
 
 # RELOJ INTELIGENTE O SMARTWATCH
+![Imagen ilustrativa de diferentes relojes inteligentes](https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/12/16/16711868659897.jpg)
+Desde la perspectiva de pensamiento de Lev Manovich, , podemos examinar el ejemplo de hibridación del **smartwatch o reloj inteligente** como un fascinante caso de convergencia de diferentes medios digitales en un solo dispositivo portátil.
 
+El **smartwatch** es un reloj tradicional que ha sufrido una remediación de los medios transformándose en un dispositivo digital interactivo capaz de realizar una amplia gama de funciones. Convirtiéndose, como su nombre lo indica, en un reloj inteligente. En este sentido, representa un claro ejemplo de hibridación mediática al combinar varios medios digitales en una sola plataforma.
 
+Vamos a entrar en detalle para analizar qué características posee este dispositivo, así que vamos a mencionar los medios digitales que conviven entre sí:
+
+1.  En primer lugar, combinación de reloj tradicional con tecnología digital: El reloj inteligente toma la forma y funcionalidad básica de un reloj clásico, que es un medio analógico utilizado exclusivamente para mostrar la hora. Sin embargo, al incorporar una pantalla digital, puede mostrar información adicional, como notificaciones, aplicaciones, mensajes de WhatsApp, correos electrónicos y otras funciones interactivas. Por lo tanto, podemos ver cómo dispone de funciones que antes pertenecían exclusivamente a los teléfonos inteligentes y, actualmente, se han añadido también a los relojes inteligentes.
+    
+2.  En segundo lugar, integración de la conectividad: El reloj inteligente se conecta de forma inalámbrica, mediante BlueTooth, a otros dispositivos, como teléfonos inteligentes, tabletas o incluso sistemas del hogar inteligente. Esto permite una comunicación fluida y una transferencia de datos, ampliando las capacidades del reloj y creando un sistema conectado.
+    
+3.  En tercer lugar, sensorización y seguimiento biométrico: Los relojes inteligentes a menudo incluyen sensores como acelerómetros, monitores de frecuencia cardíaca y GPS. Estos sensores capturan datos biométricos y de actividad física, lo que permite realizar un seguimiento de la salud y el rendimiento del usuario. La hibridación se produce al combinar un medio tradicional (el reloj) con sensores y tecnología digital para proporcionar una experiencia en tiempo real y personalizada.
+    
+4.  En cuarto lugar, interacción y control mediante gestos y voz: Los relojes inteligentes también ofrecen interfaces interactivas, como pantallas táctiles y reconocimiento de voz. Esto permite a los usuarios interactuar con el dispositivo de forma intuitiva y realizar acciones como responder mensajes, realizar llamadas, controlar la reproducción de música y muchas más.
+
+En conclusión, el reloj analógico de toda la vida ha sufrido una hibridación de medios para convertirse en un nuevo dispositivo: **reloj inteligente**.
+Esto ha permitido que funciones que anteriormente eran exclusivas de otros dispositivos como los ordenadores, las tablets o los teléfonos puedan ser utilizadas también en los relojes. Una vez más, gracias a estos avances digitales, podemos observar como la calidad de vida del ser humano y su manera de relacionarse con los medios electrónicos proyecta una mejora considerable en su desarrollo, facilitando las tareas del día a día.
+
+Para acabar, les dejo un vídeo de YouTube dónde se muestra qué es un reloj inteligente.
+[Vídeo explicativo sobre qué es un reloj inteligente y qué funciones tiene](https://www.youtube.com/watch?v=-SXoSmAeM7c)
 
 # Referencias y bibliografía
 -   Manovich, Lev. (2013).  El Software toma el mando. Barcelona: Editorial UOC.
