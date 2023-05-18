@@ -41,6 +41,7 @@ Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta
 [Vídeo explicativo sobre cómo usar Google Maps](https://www.youtube.com/watch?v=X3IznlJWyuM)
 
 # WHATSAPP
+
 ![Imagen ilustrativa del aplicativo Whats App](https://s2.ppllstatics.com/laverdad/www/multimedia/202201/29/media/cortadas/whatsapp-k2D-U180237070645G9C-1248x770@La%20Verdad.jpg)
 
 Desde la perspectiva de razonamiento de Lev Manovich, la hibridación es una fuerza impulsora para la innovación y la creatividad en el mundo digital y, como segundo ejemplo relevante de hibridación, hablaremos sobre  la aplicación de WhatsApp, que combina diversos medios digitales en un solo aplicativo.
