@@ -71,7 +71,9 @@ Para acabar, les dejo un vídeo de YouTube dónde se muestra cómo utilizar esta
 [Vídeo explicativo sobre cómo usar WhatsApp](https://www.youtube.com/watch?v=GeZn-ETiacs)
 
 # RELOJ INTELIGENTE O SMARTWATCH
+
 ![Imagen ilustrativa de diferentes relojes inteligentes](https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/12/16/16711868659897.jpg)
+
 Desde la perspectiva de pensamiento de Lev Manovich, , podemos examinar el ejemplo de hibridación del **smartwatch o reloj inteligente** como un fascinante caso de convergencia de diferentes medios digitales en un solo dispositivo portátil.
 
 El **smartwatch** es un reloj tradicional que ha sufrido una remediación de los medios transformándose en un dispositivo digital interactivo capaz de realizar una amplia gama de funciones. Convirtiéndose, como su nombre lo indica, en un reloj inteligente. En este sentido, representa un claro ejemplo de hibridación mediática al combinar varios medios digitales en una sola plataforma.
@@ -90,6 +92,7 @@ En conclusión, el reloj analógico de toda la vida ha sufrido una hibridación 
 Esto ha permitido que funciones que anteriormente eran exclusivas de otros dispositivos como los ordenadores, las tablets o los teléfonos puedan ser utilizadas también en los relojes. Una vez más, gracias a estos avances digitales, podemos observar como la calidad de vida del ser humano y su manera de relacionarse con los medios electrónicos proyecta una mejora considerable en su desarrollo, facilitando las tareas del día a día.
 
 Para acabar, les dejo un vídeo de YouTube dónde se muestra qué es un reloj inteligente.
+
 [Vídeo explicativo sobre qué es un reloj inteligente y qué funciones tiene](https://www.youtube.com/watch?v=-SXoSmAeM7c)
 
 # Referencias y bibliografía
